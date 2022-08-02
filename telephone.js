@@ -4,7 +4,7 @@
 [ {
             "id": "1",
             "name": "通信信号学院",
-            " persons": [ {
+             "persons": [ {
                 "id": "persons1",
                 "name": "张剑伟",
                 "phone": [ "13480225772" ],
@@ -26,7 +26,7 @@
         }, {
             "id": "2",
             "name": "智能制造学院",
-            " persons": [ {
+             "persons": [ {
                 "id": "persons5",
                 "name": "陈海鹏",
                 "phone": [ "18027398660", "13660290309" ],
@@ -54,7 +54,7 @@
         }, {
             "id": "3",
             "name": "通信与物联网学院",
-            " persons": [ {
+             "persons": [ {
                 "id": "persons12",
                 "name": "王妙",
                 "phone": [ "18620218679" ],
