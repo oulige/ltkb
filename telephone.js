@@ -7,9 +7,9 @@
              "persons": [ {
                 "id": "persons1",
                 "name": "欧力",
-                "phone": [ "13480225772" ],
-                "email": "zhangjianwei30@163.com",
-                "telephone": "020-87236718"
+                "phone": [ "19955561843" ],
+                "email": "987178465@qq.com",
+                "telephone": ""
             }, {
                 "id": "persons2",
                 "name": "特小凤",
