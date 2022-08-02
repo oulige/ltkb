@@ -6,13 +6,13 @@
             "name": "通信信号学院",
              "persons": [ {
                 "id": "persons1",
-                "name": "张剑伟",
+                "name": "欧力",
                 "phone": [ "13480225772" ],
                 "email": "zhangjianwei30@163.com",
                 "telephone": "020-87236718"
             }, {
                 "id": "persons2",
-                "name": "朱亮标",
+                "name": "特小凤",
                 "phone": [ "18620066588" ],
                 "email": "zhulb@ceprei.com",
                 "telephone": "020-87236858"
