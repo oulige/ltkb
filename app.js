@@ -1,7 +1,7 @@
 {
   "code": "0",
   "notice": "欢迎使用柳铁微课表！目前课表暂无数据，开学后方可正常查询。",
-  "startdate": "2022/6/6",
+  "startdate": "2022/8/29",
   "pic": [
     {
       "pic": "http://wudi.tech/img/bg1.png",
