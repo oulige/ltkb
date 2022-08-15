@@ -128,7 +128,7 @@
         } , {"id": "2",
             "name": "通信信号学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons21",
                 "name": "通信信号学院办公室",
                 "phone": "",
                 "email": "",
@@ -136,7 +136,7 @@
             }]}, {"id": "3",
             "name": "通信与物联网学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons22",
                 "name": "通信与物联网学院办公室",
                 "phone": "",
                 "email": "",
@@ -144,7 +144,7 @@
             }]} , {"id": "4",
             "name": "运输管理学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons23",
                 "name": "运输管理学院办公室",
                 "phone": "",
                 "email": "",
@@ -152,7 +152,7 @@
             }]} , {"id": "5",
             "name": "动力技术学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons24",
                 "name": "动力技术学院办公室",
                 "phone": "",
                 "email": "",
@@ -160,7 +160,7 @@
             }]} , {"id": "6",
             "name": "城轨交通学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons25",
                 "name": "城轨交通学院办公室",
                 "phone": "",
                 "email": "",
@@ -168,7 +168,7 @@
             }]} , {"id": "7",
             "name": "建筑技术学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons26",
                 "name": "建筑技术学院办公室",
                 "phone": "",
                 "email": "",
@@ -176,7 +176,7 @@
             }]} , {"id": "8",
             "name": "汽车技术学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons27",
                 "name": "汽车技术学院办公室",
                 "phone": "",
                 "email": "",
@@ -184,7 +184,7 @@
             }]} , {"id": "9",
             "name": "智能制造学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons28",
                 "name": "智能制造学院办公室",
                 "phone": "",
                 "email": "",
@@ -192,7 +192,7 @@
             }]} , {"id": "10",
             "name": "成人教育学院",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons29",
                 "name": "成人教育学院办公室",
                 "phone": "",
                 "email": "",
@@ -200,19 +200,19 @@
             }]}, {"id": "11",
             "name": "校外联合办学点",
              "persons": [ {
-                "id": "persons1",
+                "id": "persons30",
                 "name": "柳州一职校高职部",
                 "phone": "",
                 "email": "",
                 "telephone": "0772-3729035"
             },{
-                "id": "persons2",
+                "id": "persons31",
                 "name": "柳州二职校高职部",
                 "phone": "",
                 "email": "",
                 "telephone": "0772-2628691"
             },{
-                "id": "persons3",
+                "id": "persons32",
                 "name": "南宁四职校高职部",
                 "phone": "",
                 "email": "",
