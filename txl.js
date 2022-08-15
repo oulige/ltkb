@@ -104,8 +104,8 @@
                 "id": "persons17",
                 "name": "团委",
                 "phone": "",
-                "email": "0772-3679102",
-                "telephone": "ltzytw@126.com"
+                "email": "ltzytw@126.com",
+                "telephone": "0772-3679102"
             }, {
                 "id": "persons18",
                 "name": "质量管理办公室",
@@ -114,11 +114,109 @@
                 "telephone": "0772-3679181"
             }, {
                 "id": "persons19",
+                "name": "资助管理办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3679130"
+            }, {
+                "id": "persons20",
                 "name": "招标采购办公室",
                 "phone": "",
                 "email": "1579391393@qq.com",
                 "telephone": "0772-3698361"
             }]
-        } ],
+        } , {"id": "2",
+            "name": "通信信号学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "通信信号学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3698012"
+            }]}, {"id": "3",
+            "name": "通信与物联网学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "通信与物联网学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3698003"
+            }]} , {"id": "4",
+            "name": "运输管理学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "运输管理学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3698117"
+            }]} , {"id": "5",
+            "name": "动力技术学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "动力技术学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3679186"
+            }]} , {"id": "6",
+            "name": "城轨交通学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "城轨交通学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3698083"
+            }]} , {"id": "7",
+            "name": "建筑技术学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "建筑技术学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3698017"
+            }]} , {"id": "8",
+            "name": "汽车技术学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "汽车技术学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3690130"
+            }]} , {"id": "9",
+            "name": "智能制造学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "智能制造学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3698087"
+            }]} , {"id": "10",
+            "name": "成人教育学院",
+             "persons": [ {
+                "id": "persons1",
+                "name": "成人教育学院办公室",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3698019"
+            }]}, {"id": "11",
+            "name": "校外联合办学点",
+             "persons": [ {
+                "id": "persons1",
+                "name": "柳州一职校高职部",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-3729035"
+            },{
+                "id": "persons2",
+                "name": "柳州二职校高职部",
+                "phone": "",
+                "email": "",
+                "telephone": "0772-2628691"
+            },{
+                "id": "persons3",
+                "name": "南宁四职校高职部",
+                "phone": "",
+                "email": "",
+                "telephone": "0771-5321566"
+            }]}],
 "message":"获取成功"
 }
