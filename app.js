@@ -4,9 +4,12 @@
   "startdate": "2022/8/29",
   "pic": [
     {
-      "pic": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
-      "url": ""
-    }
+        picUrl: "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
+        navigateTo: "/pages/about/about"
+      }, {
+          picUrl: "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i6t7d4x0j20xc0m9dl0.jpg",
+          navigateTo: "/pages/map/map"
+      }
   ],
   "cjurl": "https://pkwx.ltzy.edu.cn/wx/scores?code=Z716sKgtybFfXomWtvx1QXjkepRro&cardNumber=",
   "kburl": "https://pkwx.ltzy.edu.cn/wx/corseuid?code=Z716sKgtybFfXomWtvx1QXjkepRro&zc=",
