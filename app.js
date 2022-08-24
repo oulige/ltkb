@@ -4,7 +4,7 @@
   "startdate": "2022/8/29",
   "pic": [
     {
-      "pic": "http://wudi.tech/img/bg1.png",
+      "pic": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
       "url": ""
     }
   ],
