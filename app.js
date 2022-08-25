@@ -8,7 +8,7 @@
         "navigateTo": "/pages/about/about"
       }, {
           "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i6t7d4x0j20xc0m9dl0.jpg",
-          "navigateTo": "/pages/map/map"
+          "navigateTo": "/pages/xyfj/index"
       }
   ],
   "cjurl": "https://pkwx.ltzy.edu.cn/wx/scores?code=Z716sKgtybFfXomWtvx1QXjkepRro&cardNumber=",
