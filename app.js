@@ -5,7 +5,7 @@
   "pic": [
     {
         "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
-        "navigateTo": "/pages/about/about"
+        "navigateTo": "/pages/cms/index"
       }, {
           "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i6t7d4x0j20xc0m9dl0.jpg",
           "navigateTo": "/pages/xyfj/index"
