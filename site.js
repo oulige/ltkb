@@ -25,7 +25,7 @@
   },
   {
     "applicationName": "报修系统",
-    "url": "https://ehall.ltzy.edu.cn/psfw/sys/swmssbxapp/",
+    "url": "https://ehall.ltzy.edu.cn/psfw/sys/swmssbxapp/*default/index.do#/",
     "description": "宿舍水电报修",
     "imageURL": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i43yiei8j2046046aa3.jpg",
     "enabled": true,
