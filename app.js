@@ -1,11 +1,10 @@
 {
   "code": "0",
   "notice": "欢迎使用We柳铁！课表正实时同步教务系统数据。",
-  "startdate": "2022/8/29",
   "pic": [
     {
         "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
-        "navigateTo": "/pages/cms/index"
+        "navigateTo": "/pages/mine/mine"
       }, {
           "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i6t7d4x0j20xc0m9dl0.jpg",
           "navigateTo": "/pages/xyfj/index"
