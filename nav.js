@@ -3,7 +3,7 @@
     "applicationName": "校园电话",
     "url": "/pages/txl/txl",
     "description": "校园常用电话本",
-    "imageURL": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i43yiei8j2046046aa3.jpg",
+    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rd9b3qhcj305k05kwed.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:19:04.618Z"
   },
@@ -11,15 +11,23 @@
     "applicationName": "校园风景",
     "url": "/pages/xyfj/index",
     "description": "校园图片欣赏",
-    "imageURL": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i43yiei8j2046046aa3.jpg",
+    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rdawi8y2j305k05k0sm.jpg",
+    "enabled": true,
+    "createdAt": "2022-07-18T08:49:18.829Z"
+  },
+  {
+    "applicationName": "常用图表",
+    "url": "/pages/course/course",
+    "description": "学院专业收费表、作息表、校园地图等",
+    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rdbu996zj305k05kmx1.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
    {
     "applicationName": "时间计时",
     "url": "/pages/day/day",
-    "description": "看一下离放假还有多少天",
-    "imageURL": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i43yiei8j2046046aa3.jpg",
+    "description": "看一下离放假还有多少天？",
+    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rdcgkv16j305k05kt8m.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
@@ -27,7 +35,7 @@
     "applicationName": "常用网站",
     "url": "/pages/link/link",
     "description": "常用网站快速复制浏览",
-    "imageURL": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i43yiei8j2046046aa3.jpg",
+    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rdd2n2lcj305k05kjr8.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   }
