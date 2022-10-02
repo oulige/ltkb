@@ -18,7 +18,7 @@
   {
     "applicationName": "常用图表",
     "url": "/pages/course/course",
-    "description": "学院专业收费表、作息表、校园地图等",
+    "description": "专业收费表、作息表、校园地图等",
     "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rdbu996zj305k05kmx1.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
