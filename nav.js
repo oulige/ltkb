@@ -2,7 +2,7 @@
   {
     "applicationName": "校园电话",
     "url": "/pages/txl/txl",
-    "description": "校园常用电话本",
+    "description": "校园常用电话查询",
     "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rd9b3qhcj305k05kwed.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:19:04.618Z"
@@ -12,6 +12,14 @@
     "url": "/pages/xyfj/index",
     "description": "校园图片欣赏",
     "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rdawi8y2j305k05k0sm.jpg",
+    "enabled": true,
+    "createdAt": "2022-07-18T08:49:18.829Z"
+  } ,
+  {
+    "applicationName": "网课查题",
+    "url": "/pages/wkct/index",
+    "description": "大学网课答案查询",
+    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6sd61z1ezj305k05kt8k.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
