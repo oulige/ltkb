@@ -14,7 +14,7 @@
     "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6rdawi8y2j305k05k0sm.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
-  } ,
+  },
   {
     "applicationName": "网课查题",
     "url": "/pages/wkct/index",
