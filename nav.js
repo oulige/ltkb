@@ -8,6 +8,22 @@
     "createdAt": "2022-07-18T08:19:04.618Z"
   },
   {
+    "applicationName": "教学评价",
+    "url": "/pages/pingjiao/pingjiao",
+    "description": "每周教学评价一键完成~",
+    "imageURL": "https://k1img.06dn.com/y/0/2022/10/11/0_634546868c080.png",
+    "enabled": true,
+    "createdAt": "2022-07-18T08:49:18.829Z"
+  },
+  {
+    "applicationName": "体测计算",
+    "url": "/pages/tice/index",
+    "description": "体测成绩计算器",
+    "imageURL": "https://k1img.06dn.com/y/0/2022/10/11/0_6345464fafd1e.png",
+    "enabled": true,
+    "createdAt": "2022-07-18T08:49:18.829Z"
+  },
+  {
     "applicationName": "校园风景",
     "url": "/pages/xyfj/index",
     "description": "校园图片欣赏",
