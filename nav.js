@@ -16,6 +16,14 @@
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
   {
+    "applicationName": "每日新闻",
+    "url": "/pages/new/index",
+    "description": "明天60秒读懂世界",
+    "imageURL": "https://dd-static.jd.com/ddimg/jfs/t1/52919/16/16264/8307/6346c95eE5bda17c6/add4dbdcf892748f.png",
+    "enabled": true,
+    "createdAt": "2022-07-18T08:49:18.829Z"
+  },
+  {
     "applicationName": "体测计算",
     "url": "/pages/tice/index",
     "description": "体测成绩计算器",
