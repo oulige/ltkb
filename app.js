@@ -8,7 +8,7 @@
       "navigateTo": "/pages/cms/index"
     },
     {
-      "picUrl": "https://k1img.06dn.com/y/0/2022/10/12/0_6346824d756a5.png",
+      "picUrl": "https://tuepic.com/i/2022/10/12/634683978e478.png",
       "navigateTo": "/pages/daka/daka"
     }
   ],
