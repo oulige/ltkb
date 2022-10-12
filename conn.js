@@ -8,8 +8,8 @@
       "navigateTo": "/pages/cms/index"
     },
     {
-      "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i6t7d4x0j20xc0m9dl0.jpg",
-      "navigateTo": "/pages/xyfj/index"
+      "picUrl": "https://tuepic.com/i/2022/10/12/634683978e478.png",
+      "navigateTo": "/pages/daka/daka"
     }
   ],
   "jxl": [
