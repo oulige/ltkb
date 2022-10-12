@@ -1,14 +1,15 @@
 {
   "code": "0",
-  "notice": "欢迎使用We柳铁！课表正实时同步教务系统数据。",
+  "notice": "新上线一波功能，请前往【菜单】测试使用",
+  "version":1.03,
   "pic": [
     {
       "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
-      "navigateTo": "/pages/post1/index"
+      "navigateTo": "/pages/cms/index"
     },
     {
-      "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i6t7d4x0j20xc0m9dl0.jpg",
-      "navigateTo": "/pages/xyfj/index"
+      "picUrl": "https://k1img.06dn.com/y/0/2022/10/12/0_6346824d756a5.png",
+      "navigateTo": "/pages/daka/daka"
     }
   ],
   "jxl": [
