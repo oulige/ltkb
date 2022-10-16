@@ -4,8 +4,8 @@
   "version":1.03,
   "pic": [
     {
-      "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
-      "navigateTo": "/pages/cms/index"
+      "picUrl": "https://dd-static.jd.com/ddimg/jfs/t1/41400/9/19908/228191/634b9c3dE2b24159b/69a78e9f881c7e83.png",
+      "navigateTo": "/pages/pingjiao/pingjiao"
     },
     {
       "picUrl": "https://tuepic.com/i/2022/10/12/634683978e478.png",
