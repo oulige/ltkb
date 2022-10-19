@@ -1,6 +1,6 @@
 {
   "code": "0",
-  "notice": "新上线一波功能，请前往【菜单】测试使用",
+  "notice": "表白墙改版上线，请点击上方图片使用",
   "version":1.03,
   "pic": [
     {
@@ -114,5 +114,5 @@
   ],
   "cjurl": "https://pkwx.ltzy.edu.cn/wx/scores?code=Z716sKgtybFfXomWtvx1QXjkepRro&cardNumber=",
   "kburl": "https://pkwx.ltzy.edu.cn/wx/corseuid?code=Z716sKgtybFfXomWtvx1QXjkepRro&zc=",
-  "bbq": ""
+  "bbq": "https://dd-static.jd.com/ddimg/jfs/t1/20442/39/20191/100062/634e86b6E66d941bc/04af19915ba6373c.png"
 }
