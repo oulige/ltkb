@@ -4,12 +4,16 @@
   "version":1.03,
   "pic": [
     {
-      "picUrl": "https://tva1.sinaimg.cn/large/e6c9d24egy1h5i3nsckpuj20p00an77j.jpg",
-      "navigateTo": "/pages/cms/index"
+      "picUrl": "https://dd-static.jd.com/ddimg/jfs/t1/41400/9/19908/228191/634b9c3dE2b24159b/69a78e9f881c7e83.png",
+      "navigateTo": "/pages/pingjiao/pingjiao"
     },
     {
       "picUrl": "https://tuepic.com/i/2022/10/12/634683978e478.png",
       "navigateTo": "/pages/daka/daka"
+    },
+    {
+      "picUrl": "https://dd-static.jd.com/ddimg/jfs/t1/160731/26/31452/19506/6346c83eEe60b4649/adb50356dd80a0c8.png",
+      "navigateTo": "/pages/new/index"
     }
   ],
   "jxl": [
@@ -114,5 +118,5 @@
   ],
   "cjurl": "https://pkwx.ltzy.edu.cn/wx/scores?code=Z716sKgtybFfXomWtvx1QXjkepRro&cardNumber=",
   "kburl": "https://pkwx.ltzy.edu.cn/wx/corseuid?code=Z716sKgtybFfXomWtvx1QXjkepRro&zc=",
-  "xiaoli": "备注:\n1. 开学第一周：8月29日行政人员、教师上班，8月30（星期二）正式上课，新生报到时间待定。\n2. 国庆节：10月1日-7日放假调休，10月8日-9日上班；中秋节：9月10日-12日放假；元旦：2022年12月31-2023年1月2日放假。\n3. 第十周星期五、六（11月4、5日）举行学校第二十届运动会。\n4. 寒假6周（1月10日至2月26日），1月22日春节，2月5日元宵节。\n5. 每周二下午，教师进行政治学习和业务学习，学生进行政治学习、主题班会、主题团日活动等。"
+  "bbq": "https://dd-static.jd.com/ddimg/jfs/t1/20442/39/20191/100062/634e86b6E66d941bc/04af19915ba6373c.png"
 }
