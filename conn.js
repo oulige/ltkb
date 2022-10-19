@@ -10,10 +10,6 @@
     {
       "picUrl": "https://tuepic.com/i/2022/10/12/634683978e478.png",
       "navigateTo": "/pages/daka/daka"
-    },
-    {
-      "picUrl": "https://dd-static.jd.com/ddimg/jfs/t1/160731/26/31452/19506/6346c83eEe60b4649/adb50356dd80a0c8.png",
-      "navigateTo": "/pages/new/index"
     }
   ],
   "jxl": [
