@@ -10,7 +10,7 @@
     "pdf": [
       {
         "url": "https://jwweb.ltzy.edu.cn/lztdjw/attached/file/20221016/1665921983320089705.docx",
-        "name": "2022-2023学年第一学期拟转专业名单.xlsx"
+        "name": "2022-2023学年第一学期拟转专业名单.docx"
       }
     ]
   }
