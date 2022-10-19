@@ -118,5 +118,5 @@
   ],
   "cjurl": "https://pkwx.ltzy.edu.cn/wx/scores?code=Z716sKgtybFfXomWtvx1QXjkepRro&cardNumber=",
   "kburl": "https://pkwx.ltzy.edu.cn/wx/corseuid?code=Z716sKgtybFfXomWtvx1QXjkepRro&zc=",
-  "bbq": "https://dd-static.jd.com/ddimg/jfs/t1/20442/39/20191/100062/634e86b6E66d941bc/04af19915ba6373c.png"
+  "bbq": ""
 }
