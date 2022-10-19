@@ -15,14 +15,7 @@
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
-  {
-    "applicationName": "每日新闻",
-    "url": "/pages/new/index",
-    "description": "明天60秒读懂世界",
-    "imageURL": "https://dd-static.jd.com/ddimg/jfs/t1/52919/16/16264/8307/6346c95eE5bda17c6/add4dbdcf892748f.png",
-    "enabled": true,
-    "createdAt": "2022-07-18T08:49:18.829Z"
-  },
+  
   {
     "applicationName": "体测计算",
     "url": "/pages/tice/index",
@@ -39,14 +32,7 @@
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
-  {
-    "applicationName": "网课查题",
-    "url": "/pages/wkct/index",
-    "description": "大学网课答案查询",
-    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6sd61z1ezj305k05kt8k.jpg",
-    "enabled": true,
-    "createdAt": "2022-07-18T08:49:18.829Z"
-  },
+  
   {
     "applicationName": "常用图表",
     "url": "/pages/course/course",
