@@ -16,14 +16,6 @@
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
   {
-    "applicationName": "青年学习",
-    "url": "/pages/dxx/mine",
-    "description": "每周大学习一键完成~",
-    "imageURL": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v2cbe7883f33364ffe907dfecfc5de525c.png",
-    "enabled": true,
-    "createdAt": "2022-07-18T08:49:18.829Z"
-  },
-  {
     "applicationName": "每日早报",
     "url": "/pages/news/news",
     "description": "每天60秒读懂世界",
