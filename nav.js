@@ -15,14 +15,7 @@
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
-  {
-    "applicationName": "每日早报",
-    "url": "/pages/news/news",
-    "description": "每天60秒读懂世界",
-    "imageURL": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v2b0783354c67c4c5f82dcf19f9364386f.png",
-    "enabled": true,
-    "createdAt": "2022-07-18T08:49:18.829Z"
-  },
+  
   {
     "applicationName": "网课查题",
     "url": "/pages/wkct/index",
