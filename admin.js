@@ -7,12 +7,9 @@
       "picUrl": "https://dd-static.jd.com/ddimg/jfs/t1/41400/9/19908/228191/634b9c3dE2b24159b/69a78e9f881c7e83.png",
       "navigateTo": "/pages/pingjiao/pingjiao"
     },
+   
     {
-      "picUrl": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v2c98b0ddea45c4b09bbbf1eaa599ae58c.png",
-      "navigateTo": "/pages/news/news"
-    },
-    {
-      "picUrl": "https://tuepic.com/i/2022/10/12/634683978e478.png",
+      "picUrl": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v2a7e3e387e57642adb07ac684c794423c.png",
       "navigateTo": "/pages/daka/daka"
     }
   ],
