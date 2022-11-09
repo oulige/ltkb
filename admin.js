@@ -3,10 +3,7 @@
   "notice": "表白墙改版上线，请点击上方图片使用。",
   "version":1.03,
   "pic": [
-    {
-      "picUrl": "https://dd-static.jd.com/ddimg/jfs/t1/41400/9/19908/228191/634b9c3dE2b24159b/69a78e9f881c7e83.png",
-      "navigateTo": "/pages/pingjiao/pingjiao"
-    },
+    
    
     {
       "picUrl": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v2a7e3e387e57642adb07ac684c794423c.png",
