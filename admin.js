@@ -1,7 +1,7 @@
 {
   "code": "0",
-  "notice": "课表暂不可用，请等候更新。",
-  "version":1.03,
+  "notice": "欢迎使用We柳铁",
+  "version":1,
   "pic": [
     
    
