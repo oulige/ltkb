@@ -7,28 +7,12 @@
     "enabled": true,
     "createdAt": "2022-07-18T08:19:04.618Z"
   },
-  {
-    "applicationName": "教学评价",
-    "url": "/pages/pingjiao/pingjiao",
-    "description": "每周教学评价一键完成~",
-    "imageURL": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v255288098c4db49d29f57ad960dbf7ade.png",
-    "enabled": true,
-    "createdAt": "2022-07-18T08:49:18.829Z"
-  },
-  
-  {
-    "applicationName": "网课查题",
-    "url": "/pages/wkct/index",
-    "description": "大学网课答案查询",
-    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6sd61z1ezj305k05kt8k.jpg",
-    "enabled": true,
-    "createdAt": "2022-07-18T08:49:18.829Z"
-  },
+ 
   {
     "applicationName": "体测计算",
     "url": "/pages/tice/index",
     "description": "体测成绩计算器",
-    "imageURL": "https://pic8.58cdn.com.cn/nowater/webim/big/n_v2ee67a358b8d74c15ae7418e14a34a39a.png",
+    "imageURL": "https://tva1.sinaimg.cn/large/006y8mN6gy1h6sd61z1ezj305k05kt8k.jpg",
     "enabled": true,
     "createdAt": "2022-07-18T08:49:18.829Z"
   },
